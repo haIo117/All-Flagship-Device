@@ -26,12 +26,12 @@
                     "screenWidth":  1216,
                     "screenHeight":  2688,
                     "screenDensity":  431,
-                    "operatorAlpha":  "T-Mobile",
-                    "operatorNumeric":  "310260",
-                    "simOperatorAlpha":  "T-Mobile",
-                    "simOperatorNumeric":  "310260",
+                    "operatorAlpha":  "AT&T",
+                    "operatorNumeric":  "310410",
+                    "simOperatorAlpha":  "AT&T",
+                    "simOperatorNumeric":  "310410",
                     "simCountryIso":  "us",
-                    "timezone":  "America/Los_Angeles",
+                    "timezone":  "America/Chicago",
                     "socModel":  "Snapdragon 8 Elite Gen 5",
                     "socManufacturer":  "Qualcomm"
                 }
