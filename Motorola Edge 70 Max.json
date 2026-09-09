@@ -11,7 +11,7 @@
                     "deviceCode":  "cancun",
                     "board":  "sm8850",
                     "hardware":  "qcom",
-                    "boardPlatform":  "sm8850",
+                    "boardPlatform":  "sm8845",
                     "buildFingerprint":  "motorola/cancun/cancun:16/BP1A.260805.012/V16.0.1.200:user/release-keys",
                     "buildId":  "BP1A.260805.012",
                     "buildDisplayId":  "BP1A.260805.012",
